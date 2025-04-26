@@ -1,39 +1,39 @@
-💳 Credit Card Fraud Detection App
+##💳 Credit Card Fraud Detection App
+
 A simple and interactive Streamlit application to detect credit card fraud using an Isolation Forest model.
 Users can enter transaction details, and the app predicts whether the transaction is normal or fraudulent.\
 
-🚀 Features
-Load and display a sample of the credit card transaction dataset.
+##🚀 Features
 
-Use an Isolation Forest model trained on anonymized features.
+- Load and display a sample of the credit card transaction dataset.
 
-User-friendly form for entering transaction details securely (inputs hidden like passwords).
+- Use an Isolation Forest model trained on anonymized features.
 
-Predicts transaction status:
+- User-friendly form for entering transaction details securely (inputs hidden like passwords).
 
-✅ Normal Transaction
+## Predicts transaction status:
 
-🚨 Fraud Detected
+- ✅ Normal Transaction
 
-📁 Project Structure
-bash
-Copy code
-├── app1.py        # Streamlit application file
-├── creditcard.csv # Dataset file (should be in the same directory)
-└── README.md      # Project documentation
+- 🚨 Fraud Detected
 
-🧠 Model Details
-Model Used: Isolation Forest (unsupervised anomaly detection)
+## 📁 Project Structure
 
-Training: Model trained on all features excluding the Class label.
 
-Features Highlighted:
+- ├── app1.py        # Streamlit application file
+- ├── creditcard.csv # Dataset file (should be in the same directory)
+- └── README.md      # Project documentation
 
-Time (time elapsed)
+##🧠 Model Details
 
-V1, V2, V3 (anonymized PCA components)
+- Model Used: Isolation Forest (unsupervised anomaly detection)
+- Training: Model trained on all features excluding the Class label.
 
-Amount (transaction amount)
+## Features Highlighted:
+
+- Time (time elapsed)
+- V1, V2, V3 (anonymized PCA components)
+- Amount (transaction amount)
 
 ## ✨ Future Improvements
 
@@ -45,15 +45,15 @@ Amount (transaction amount)
 
 ## 🛠️ Tech Stack
 
-Programming Language: Python
-Framework: Streamlit (for building the web app)
+- Programming Language: Python
+- Framework: Streamlit (for building the web app)
 
-Libraries:
-Pandas — for data manipulation
-NumPy — for numerical operations
-Scikit-learn — for building the Isolation Forest model
+### Libraries:
+- Pandas — for data manipulation
+- NumPy — for numerical operations
+- Scikit-learn — for building the Isolation Forest model
 
-Machine Learning Model: Isolation Forest (Anomaly Detection)
+- Machine Learning Model: Isolation Forest (Anomaly Detection)
 
-Dataset: Credit Card Transactions Dataset (creditcard.csv)
+- Dataset: Credit Card Transactions Dataset (creditcard.csv)
 
