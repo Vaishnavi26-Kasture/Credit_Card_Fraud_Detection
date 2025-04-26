@@ -1,9 +1,9 @@
-##💳 Credit Card Fraud Detection App
+## 💳 Credit Card Fraud Detection App
 
 A simple and interactive Streamlit application to detect credit card fraud using an Isolation Forest model.
 Users can enter transaction details, and the app predicts whether the transaction is normal or fraudulent.\
 
-##🚀 Features
+## 🚀 Features
 
 - Load and display a sample of the credit card transaction dataset.
 
@@ -24,7 +24,7 @@ Users can enter transaction details, and the app predicts whether the transactio
 - ├── creditcard.csv # Dataset file (should be in the same directory)
 - └── README.md      # Project documentation
 
-##🧠 Model Details
+## 🧠 Model Details
 
 - Model Used: Isolation Forest (unsupervised anomaly detection)
 - Training: Model trained on all features excluding the Class label.
