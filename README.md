@@ -60,5 +60,5 @@ Users can enter transaction details, and the app predicts whether the transactio
 
 ## Output
 
-[credit_card1_ss] https://github.com/Vaishnavi26-Kasture/Credit_Card_Fraud_Detection/blob/main/credit_card1_ss.jpeg?raw=true
+![credit_card1_ss] (https://github.com/Vaishnavi26-Kasture/Credit_Card_Fraud_Detection/blob/main/credit_card1_ss.jpeg?raw=true)
 
