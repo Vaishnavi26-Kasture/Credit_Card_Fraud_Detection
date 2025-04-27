@@ -59,7 +59,7 @@ Users can enter transaction details, and the app predicts whether the transactio
 
 ## Output
 
-![credit_card1_ss] 
+![credit_card1_ss] (credit_card1_ss.jpeg)
 
 
 
